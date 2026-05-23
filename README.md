@@ -2,23 +2,33 @@
 
 ## Plataforma inteligente de automatización y análisis tributario impulsada por Inteligencia Artificial
 
-Visión Fiscal AI es una plataforma enfocada en automatización tributaria, conciliación documental, análisis inteligente y cumplimiento fiscal mediante tecnologías de inteligencia artificial, ciencia de datos y automatización.
+![Machine Learning](images/Machine%20learning.png)
 
 ---
 
-## Objetivos del proyecto
+## ¿Qué es Visión Fiscal AI?
 
-- Automatizar procesos tributarios repetitivos
-- Procesar comprobantes electrónicos XML/PDF
-- Detectar inconsistencias y anomalías
-- Facilitar conciliaciones tributarias
-- Generar dashboards inteligentes
-- Integrar modelos de IA para análisis y apoyo operativo
-- Construir herramientas modernas de Tax Intelligence
+Visión Fiscal AI es una plataforma moderna de inteligencia fiscal diseñada para automatizar procesos tributarios, conciliaciones, análisis documentales y detección de inconsistencias utilizando:
+
+- Inteligencia Artificial
+- Machine Learning
+- Automatización
+- ETL
+- Dashboards
+- Ciencia de Datos
+- Sistemas verificables
 
 ---
 
-## Tecnologías
+## Arquitectura conceptual
+
+```text
+XML/PDF → ETL → Validación → IA → Dashboard → Reportes
+```
+
+---
+
+## Tecnologías utilizadas
 
 | Área | Tecnologías |
 |---|---|
@@ -32,46 +42,58 @@ Visión Fiscal AI es una plataforma enfocada en automatización tributaria, conc
 
 ---
 
-## Arquitectura inicial
+# Investigación avanzada
 
-```text
-XML/PDF → ETL → Validación → IA → Dashboard → Reportes
-```
+## Teoría matemática del aprendizaje profundo
 
----
-
-## Módulos proyectados
-
-### 1. Descarga automatizada
-Automatización de procesos documentales y validaciones.
-
-### 2. Motor ETL tributario
-Procesamiento y transformación de información fiscal.
-
-### 3. Conciliación inteligente
-Cruce automatizado de documentos y detección de diferencias.
-
-### 4. Dashboard ejecutivo
-Visualización estratégica para toma de decisiones.
-
-### 5. Copiloto IA tributario
-Asistente inteligente para análisis y soporte.
+![Deep Learning](images/Aprendizaje%20profundo.png)
 
 ---
 
-## Visión estratégica
+## Inteligencia Artificial General Verificable
 
-El objetivo es evolucionar esta plataforma hacia un ecosistema moderno de inteligencia fiscal y automatización empresarial aplicando IA responsable, analítica avanzada y sistemas verificables.
+![AGI](images/IAG%20Verificable.png)
 
 ---
 
-## Estado del proyecto
+## Alineación de IA Superinteligente
+
+![Alignment](images/Superinteligente.png)
+
+---
+
+# Módulos proyectados
+
+## 1. Automatización tributaria
+Procesamiento automatizado de documentos XML/PDF.
+
+## 2. Conciliación inteligente
+Cruce de información tributaria y contable.
+
+## 3. Detección de anomalías
+Modelos IA para identificación de inconsistencias.
+
+## 4. Dashboard ejecutivo
+Visualización estratégica y analítica avanzada.
+
+## 5. Copiloto tributario IA
+Asistencia inteligente para análisis y soporte.
+
+---
+
+# Visión estratégica
+
+Construir un ecosistema moderno de inteligencia fiscal y automatización empresarial utilizando IA responsable, analítica avanzada y sistemas verificables.
+
+---
+
+# Estado del proyecto
 
 🚧 En desarrollo inicial.
 
 ---
 
-## Autor
+# Autor
 
 **Sergio Méndez**  
 Computer Science Engineering | AI | Data Science | Automation | Tax Intelligence
