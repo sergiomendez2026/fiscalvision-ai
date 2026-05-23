@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![AI](https://img.shields.io/badge/AI-MachineLearning-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
+![Cloud](https://img.shields.io/badge/Cloud-Vercel-black)
 # Visión Fiscal AI
 
 ## Plataforma inteligente de automatización y análisis tributario impulsada por Inteligencia Artificial
